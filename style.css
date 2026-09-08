@@ -1,0 +1,7 @@
+:root {
+    --text: #0C00FF
+    }
+    
+body {
+color: var(--text);
+}
