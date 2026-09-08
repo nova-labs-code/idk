@@ -9,5 +9,6 @@ background-color:var(--bg);
 }
 
 .title h1{
-font-size: 4rem;
+font-size: 12rem;
+text-align: center;
 }
