@@ -5,3 +5,7 @@
 body {
 color: var(--text);
 }
+
+.title h1{
+text-size: 40px;
+}
