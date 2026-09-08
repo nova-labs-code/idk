@@ -1,9 +1,11 @@
 :root {
-    --text: #0C00FF;
+    --text: #FFFFFF;
+    --bg: #181721;
     }
     
 body {
 color: var(--text);
+background-color:var(--bg);
 }
 
 .title h1{
