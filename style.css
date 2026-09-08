@@ -12,3 +12,11 @@ background-color:var(--bg);
 font-size: 8rem;
 text-align: center;
 }
+
+.button1 {
+background-color: rgb(200,0,0);
+border: none;
+height: 36px;
+width: 105px;
+border-radius: 16px;
+}
